@@ -130,17 +130,17 @@ buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
+        InlineKeyboardButton(text="Help & Cmds", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Source 🌐", url="https://github.com/Awesome-Prince/NekoRobot-3.git"
+            text="Owner", url="https://t.me/AranXSiesta"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
+            text="Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://telegram.dog/BlackLover_Updates"
+            text="Updates", url="https://telegram.dog/BlackLover_Updates"
         ),
     ],
 ]
@@ -150,7 +150,7 @@ HELP_STRINGS = """
 *Main* commands available:
 ➛ /help: PM's you this message.
 ➛ /help <module name>: PM's you info about that module.
-➛ /donate: information on how to donate!
+➛ /privacy: to view the privacy policy, and interact with your data.
 ➛ /settings:
    ➛ in PM: will send you your settings for all supported modules.
    ➛ in a group: will redirect you to pm, with all that chat's settings.
@@ -158,12 +158,12 @@ HELP_STRINGS = """
 
 GROUP_START_IMG = (
     "https://telegra.ph/file/6f6e36088ce15a189c400.mp4",
-    "https://telegra.ph/file/0cea56d9625f265ecc9db.mp4",
-    "https://telegra.ph/file/a131993b0f1e8517eacb2.mp4",
-    "https://telegra.ph/file/6f43ded36dba5f256bba7.mp4",
-    "https://telegra.ph/file/61acd313cc536bd1c6217.mp4",
-    "https://telegra.ph/file/f329cdd740c55bf955deb.mp4",
-    "https://telegra.ph/file/4ace6e89c3b1d3a08e943.mp4",
+    
+    
+    
+    
+    
+    
 )
 
 DONATE_STRING = """❂ I'm Free for Everyone ❂"""
