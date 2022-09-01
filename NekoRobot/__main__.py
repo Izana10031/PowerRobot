@@ -112,8 +112,8 @@ HELP_MSG = "Click The Button Below To Get Help Menu In Your Dm."
 START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/4bf4b16a4e561dac5ad62.jpg) 」────
-*Hola! {},*
+────「 [{}](https://telegra.ph/file/0bf64e402f487fcee82ad.jpg) 」────
+*Konnichiwa {} San,*
 *I am an Anime Themed Advance Group Management Bot With Lot Of Sexy Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
