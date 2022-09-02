@@ -58,7 +58,7 @@ def no_longer_afk(update: Update, context: CallbackContext):
         firstname = update.effective_user.first_name
         try:
             options = [
-                "Mission failed successfully {} Time you were AFK for {}",
+                "{} is here!",
                 "{} is back!",
                 "{} is now in the chat!",
                 "{} is awake!",
