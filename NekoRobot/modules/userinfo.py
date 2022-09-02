@@ -45,7 +45,7 @@ from NekoRobot.modules.sql.afk_sql import check_afk_status, is_afk
 from NekoRobot.modules.sql.global_bans_sql import is_user_gbanned
 from NekoRobot.modules.sql.users_sql import get_user_num_chats
 
-NEKO_IMG = "https://telegra.ph/file/a21731c0c4c7f27a3ec16.jpg"
+NEKO_IMG = "https://te.legra.ph/file/2e1201a57f3455d963910.jpg"
 
 
 def no_by_per(totalhp, percentage):
@@ -139,7 +139,7 @@ def hpmanager(user):
 
 def make_bar(per):
     done = min(round(per / 10), 10)
-    return "◈" * done + "◇" * (10 - done)
+    return "■" * done + "□" * (10 - done)
 
 
 def get_id(update: Update, context: CallbackContext):
@@ -317,17 +317,17 @@ def info(update: Update, context: CallbackContext):
         pass  # don't crash if api is down somehow...
 
     if user.id == OWNER_ID:
-        text += "\n\nThe Disaster level of this person is 'God'."
+        text += "\n\nThe Disaster level of this person is 'Darling'."
     elif user.id in DEV_USERS:
-        text += "\n\nThis user is member of 'Heros Association'."
+        text += "\n\nThis user is member of 'Oniichan'."
     elif user.id in DRAGONS:
-        text += "\n\nThe Disaster level of this person is 'Dragon'."
+        text += "\n\nThe Disaster level of this person is 'Sensei'."
     elif user.id in DEMONS:
-        text += "\n\nThe Disaster level of this person is 'Demon'."
+        text += "\n\nThe Disaster level of this person is 'Senpai'."
     elif user.id in TIGERS:
-        text += "\n\nThe Disaster level of this person is 'Tiger'."
+        text += "\n\nThe Disaster level of this person is 'Bestfriend'."
     elif user.id in WOLVES:
-        text += "\n\nThe Disaster level of this person is 'Wolf'."
+        text += "\n\nThe Disaster level of this person is 'Friend'."
     elif user.id == 5561111332:
         text += "\n\nSenorita Is Girlfriend Of @BlackLover_Prince."
 
@@ -463,13 +463,13 @@ def stats(update, context):
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
             + f"\n\n[✦ Support](https://t.me/{SUPPORT_CHAT}) | [✦ Updates](https://t.me/BlackLover_Updates)\n\n"
-            + "\n╘══「 by [BlackLover • Network](https://t.me/BlackLover_Network) 」\n",
+            + "\n╘══「 by [Valhalla Network](https://t.me/Valhalla_Network) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="Repo", url="github.com/Awesome-Prince/NekoRobot-3"
+                            text="Off-Topic", url="https://t.me/Anime_Discussion69"
                         )
                     ]
                 ]
@@ -485,14 +485,14 @@ def stats(update, context):
                     )
                     + f"\n\n✦ [Support](https://t.me/{SUPPORT_CHAT}) | ✦ [Updates](https://t.me/BlackLover_Updates)\n\n"
                 )
-                + "╘══「 by [BlackLover • Network](https://t.me/BlackLover_Network) 」\n"
+                + "╘══「 by [Valhalla Network](https://t.me/Valhalla_Network) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="Repo", url="github.com/Awesome-Prince/NekoRobot-3"
+                            text="Off-Topic", url="https://t.me/Anime_Discussion69"
                         )
                     ]
                 ]
