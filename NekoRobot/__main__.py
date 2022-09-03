@@ -113,8 +113,8 @@ START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/0bf64e402f487fcee82ad.jpg) 」────
-*Konnichiwa {} San,*
-*I am an Anime Themed Advance Group Management Bot With Lot Of Sexy Features.*
+*Bᴀᴋᴀ {} ,*
+*I'ᴍ Pᴏᴡᴇʀ A Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Bᴀsᴇᴅ Oɴ Tʜᴇ Aɴɪᴍᴇ Cʜᴀɪɴsᴀᴡ Mᴀɴ.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
 ❍ `{}` *Users, Across* `{}` *Chats.*
