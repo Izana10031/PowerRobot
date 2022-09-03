@@ -116,8 +116,8 @@ PM_START_TEXT = """
 *Bᴀᴋᴀ {} ,*
 *I'ᴍ Pᴏᴡᴇʀ A Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Bᴀsᴇᴅ Oɴ Tʜᴇ Aɴɪᴍᴇ Cʜᴀɪɴsᴀᴡ Mᴀɴ.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-❍ *Uptime:* `{}`
-❍ `{}` *Users, Across* `{}` *Chats.*
+❍ *Uᴘᴛɪᴍᴇ:* `{}`
+❍ `{}` *Usᴇʀs, Aᴄʀᴏss* `{}` *Cʜᴀᴛs.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Guidelines Button Below To Know My Abilities ××
 """
@@ -125,22 +125,22 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text=f"Add {BOT_NAME} To Your Group",
+            text=f"Aᴅᴅ {BOT_NAME} Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ",
             url=f"https://telegram.dog/{NEKO_PTB.bot.username}?startgroup=true",
         )
     ],
     [
         InlineKeyboardButton(text="Help & Cmds", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Owner", url="https://t.me/AranXSiesta"
+            text="Oᴡɴᴇʀ", url="https://t.me/AranXSiesta"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
+            text="Sᴜᴘᴘᴏʀᴛ", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="Updates", url="https://telegram.dog/BlackLover_Updates"
+            text="Uᴘᴅᴀᴛᴇs", url="https://telegram.dog/BlackLover_Updates"
         ),
     ],
 ]
