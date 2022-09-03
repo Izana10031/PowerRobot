@@ -157,7 +157,7 @@ HELP_STRINGS = """
 """
 
 GROUP_START_IMG = (
-    "https://telegra.ph/file/a77194d424e78a111ee67.mp4",
+    "https://te.legra.ph/file/e0eed5b6099eb8686818d.mp4",
     
     
     
@@ -293,17 +293,17 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_animation(
             random.choice(GROUP_START_IMG),
-            caption=f"<b>Yes, Darling I'm alive!\nHaven't sleep since</b>: <code>{uptime}</code>",
+            caption=f"<b>Yes, Grovel Human I'm alive!\nHaven't sleep since</b>: <code>{uptime}</code>",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="🚑 Support",
+                            text="Support",
                             url=f"https://telegram.dog/{SUPPORT_CHAT}",
                         ),
                         InlineKeyboardButton(
-                            text="📢 Updates",
+                            text="Updates",
                             url="https://telegram.dog/BlackLover_Updates",
                         ),
                     ]
