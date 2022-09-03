@@ -112,7 +112,7 @@ HELP_MSG = "Click The Button Below To Get Help Menu In Your Dm."
 START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/0bf64e402f487fcee82ad.jpg) 」────
+────「 [{}](https://te.legra.ph/file/988773d5e1a70bfb576ed.mp4) 」────
 *Bᴀᴋᴀ {} ,*
 *I'ᴍ Pᴏᴡᴇʀ A Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Bᴀsᴇᴅ Oɴ Tʜᴇ Aɴɪᴍᴇ Cʜᴀɪɴsᴀᴡ Mᴀɴ.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
