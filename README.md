@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/29d7982a20a46dfc1d9a1.jpg">
+  <img src="https://te.legra.ph/file/b0514b25bd473a1605006.jpg">
 </p>
 
 ## Power Robot 
