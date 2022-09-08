@@ -112,14 +112,13 @@ HELP_MSG = "Click The Button Below To Get Help Menu In Your Dm."
 START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
-────「 [{}](https://te.legra.ph/file/988773d5e1a70bfb576ed.mp4) 」────
-*Bᴀᴋᴀ {} ,*
-*I'ᴍ Pᴏᴡᴇʀ A Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ Bᴀsᴇᴅ Oɴ Tʜᴇ Aɴɪᴍᴇ Cʜᴀɪɴsᴀᴡ Mᴀɴ.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-❍ *Uᴘᴛɪᴍᴇ:* `{}`
-❍ `{}` *Usᴇʀs, Aᴄʀᴏss* `{}` *Cʜᴀᴛs.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-➛ Try The Guidelines Button Below To Know My Abilities ××
+*Hello {} !*
+✪ I'm an anime-theme management bot [✨](https://telegra.ph/file/11b5922a33de9968cedfe.jpg)
+────────────────────────
+× *Uptime:* `{}`
+× `{}` *users, across* `{}` *chats.*
+────────────────────────
+✪ Hit /help to see my available commands.
 """
 
 buttons = [
