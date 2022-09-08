@@ -112,7 +112,7 @@ HELP_MSG = "Click The Button Below To Get Help Menu In Your Dm."
 START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/4bf4b16a4e561dac5ad62.jpg) 」────
+────「 [{}](https://te.legra.ph/file/988773d5e1a70bfb576ed.mp4) 」────
 *Hola! {},*
 *I am an Anime Themed Advance Group Management Bot With Lot Of Sexy Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -157,7 +157,7 @@ HELP_STRINGS = """
 """
 
 GROUP_START_IMG = (
-    "https://te.legra.ph/file/e0eed5b6099eb8686818d.mp4",
+    "https://te.legra.ph/file/a6b18402540188a55819e.mp4",
     
     
     
