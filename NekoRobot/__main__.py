@@ -132,15 +132,15 @@ buttons = [
     [
         InlineKeyboardButton(text="Help & Cmds", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Oᴡɴᴇʀ", url="https://t.me/AranXSiesta"
+            text="Oᴡɴᴇʀ", url="https://t.me/Accelerator_Alone"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ", url=f"https://telegram.dog/{SUPPORT_CHAT}"
+            text="group", url=f"https://telegram.dog/{Anime_DISCUSSION_Zone}"
         ),
         InlineKeyboardButton(
-            text="Uᴘᴅᴀᴛᴇs", url="https://telegram.dog/BlackLover_Updates"
+            text="network", url="https://telegram.dog/DestinyXNetwork"
         ),
     ],
 ]
